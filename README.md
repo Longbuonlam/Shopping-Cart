@@ -1,2 +1,2 @@
 # Shopping-Cart
-shopping cart using C
+shopping cart using C++
